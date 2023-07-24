@@ -5,12 +5,15 @@ Would this be uploaded?
 First, when I type "git add" :
 NOTHING happens.
 
-way to solve:
+
+way to solve:🐳🐳🐳🐳𓃠𓃠🐳🐳🐳🐳
 I tried to type /git push/.
 Then , a new window jumps out , telling me to Log in by using CODE.
 
 
 Remember to Connect your Github user before you can really "git push".
+
+𓃠𓃠𓃠🐳🐳🌌🌌🐳🐳🐳𓆝𓆝𓆝🐳🐳🐳🌌🌌🐳🐳
 
 
 /////git commit -m "little"
@@ -24,11 +27,14 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-新增資料之後: 
+𓃠𓃠𓃠𓃠🐳🐳🐳🌌🐳🐳𓆝𓆝𓆝🐳🐳🐳🐳
+以下是更新上傳的程式碼: 
 ////git add .
+
 ////git commit -m "try" ( "try"可以任意更改)
 [main 4c35049] try
  1 file changed, 11 insertions(+), 1 deletion(-)
+
 ////git push
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
@@ -39,14 +45,14 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/Ingrid0501/test-Git.git
    5732a93..4c35049  main -> main
 
+𓆝𓆝🐳🐳🌌𓆝𓆝
+////git add .
 
-   D:\00_PYTHON_LAB\juillet24\test-Git>git add .
-
-D:\00_PYTHON_LAB\juillet24\test-Git>git commit -m "pikachu"
+////git commit -m "pikachu"
 [main 76cdf51] pikachu
  1 file changed, 28 insertions(+), 1 deletion(-)
 
-D:\00_PYTHON_LAB\juillet24\test-Git>git push
+////git push
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
 Delta compression using up to 12 threads
