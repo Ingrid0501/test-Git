@@ -1,5 +1,7 @@
 # test-Git
 
+##test for git pull
+
 edit time: 30 juillet 2023
 
 #如果想要格行，需要打上"  "(two spaces)。
@@ -64,6 +66,7 @@ Compressing objects: 100% (2/2), done.
 Writing objects: 100% (3/3), 925 bytes | 925.00 KiB/s, done.  
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0  
 To https://github.com/Ingrid0501/test-Git.git  
+<<<<<<< HEAD
    4c35049..76cdf51  main -> main      
 
 
@@ -82,3 +85,6 @@ Receiving objects: 100% (31/31), 2.02 MiB | 5.38 MiB/s, done.
 Resolving deltas: 100% (12/12), done.  
 
 
+=======
+   4c35049..76cdf51  main -> main  
+>>>>>>> 3fa7d48e7185839e707964709437a8f41dbb7569
