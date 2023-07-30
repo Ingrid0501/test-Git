@@ -23,13 +23,13 @@ Remember to Connect your Github user before you can really "git push".
 On branch main  
 Your branch is up to date with 'origin/main'.  
 
-(這裡說沒有新增任何改變可能是因為前面跳過了 git add .)
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-        modified:   README.md
+(這裡說沒有新增任何改變可能是因為前面跳過了 git add .)  
+Changes not staged for commit:  
+  (use "git add <file>..." to update what will be committed)  
+  (use "git restore <file>..." to discard changes in working directory)  
+        modified:   README.md  
 
-no changes added to commit (use "git add" and/or "git commit -a")      
+no changes added to commit (use "git add" and/or "git commit -a")        
 
 𓃠𓃠𓃠𓃠🐳🐳🐳🌌🐳 範例 1 🐳𓆝𓆝𓆝🐳🐳🐳🐳
 更新上傳程式碼:  
