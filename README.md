@@ -1,26 +1,25 @@
 # test-Git
 
+edit time: 30 juillet 2023
+
 Would this be uploaded?
 
-First, when I type "git add" :
-NOTHING happens.
+First, when I type "git add" :  
+NOTHING happens.  
 
 
-way to solve:🐳🐳🐳🐳𓃠𓃠🐳🐳🐳🐳
-I tried to type /git push/.
-Then , a new window jumps out , telling me to Log in by using CODE.
+way to solve:🐳🐳🐳🐳𓃠𓃠🐳🐳🐳🐳  
+I tried to type /git push/.  
+Then , a new window jumps out , telling me to Log in by using CODE.  
 
 
-Remember to Connect your Github user before you can really "git push".
-/n
-/n
-/n
+Remember to Connect your Github user before you can really "git push".    
 𓃠𓃠𓃠🐳🐳🌌🌌🐳🐳🐳𓆝𓆝𓆝🐳🐳🐳🌌🌌🐳🐳
 
 
-/////git commit -m "little"
-On branch main
-Your branch is up to date with 'origin/main'.
+/////git commit -m "little"  
+On branch main  
+Your branch is up to date with 'origin/main'.  
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
